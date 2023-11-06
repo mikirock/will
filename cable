@@ -14,13 +14,13 @@ http://191.97.60.193:10000/play/a03c/index.m3u8
 #EXTINF:-1,7 TV PERU HD
 http://38.56.220.254:8000/play/a002/index.m3u8
 #EXTINF:-1,8 CANAL N HD
-http://161.132.194.88:7076/play/a0qn/index.m3u8
+http://161.132.194.88:6178/play/a0qn/index.m3u8
 #EXTINF:-1,9 ATV HD 
 http://38.56.220.254:8000/play/a005/index.m3u8
 #EXTINF:-1,10 ATV+ HD 
-http://45.173.201.50:4000/play/a019/index.m3u8
+http://190.42.181.137:8000/play/a0lq/index.m3u8
 #EXTINF:-1,11 UNICENTRO HD
-http://45.173.201.50:4000/play/a024/index.m3u8
+http://191.97.60.193:10000/play/a03r/index.m3u8
 #EXTINF:-1,12 USMP HD
 http://191.97.60.193:10000/play/a00d/index.m3u8
 #EXTINF:-1,13 GLOBAL HD
@@ -28,13 +28,13 @@ http://38.56.220.254:8000/play/a008/index.m3u8
 #EXTINF:-1,14 LIGA 1 MAX HD
 http://190.102.139.244:8900/play/a12f/index.m3u8
 #EXTINF:-1,15 GOLPERU HD
-http://177.53.153.21:8001/play/a03z/index.m3u8
+http://191.52.214.5:8000/play/a03m/index.m3u8
 #EXTINF:-1,16 TL NOVELAS HD
 http://190.102.139.244:8900/play/a127/index.m3u8
 #EXTINF:-1,17 LAS ESTRELLAS HD
 http://177.53.153.21:8001/play/a04b/index.m3u8
 #EXTINF:-1,18 PASIONES HD
-http://177.53.153.21:8001/play/a0at/index.m3u8
+http://45.173.201.6:8000/play/a01s/index.m3u8
 #EXTINF:-1,19 KANAL D DRAMA HD
 http://177.53.153.21:8001/play/a03c/index.m3u8
 #EXTINF:-1,20 TNT NOVELAS HD
@@ -102,7 +102,7 @@ http://181.174.228.123:9080/play/a03g/index.m3u8
 #EXTINF:-1,51 TOONCAST HD
 http://177.53.153.21:8001/play/a085/index.m3u8
 #EXTINF:-1,52 DISNEY HD
-http://187.102.208.155:8000/play/a055/index.m3u8
+http://38.43.150.126:8000/play/a037/index.m3u8
 #EXTINF:-1,53 NICK HD
 http://170.254.234.244:8000/play/a041/index.m3u8
 #EXTINF:-1,54 TEEN NICK HD
@@ -120,7 +120,7 @@ http://wifispeed.trapemn.tv:1935/infantil/energeek-1/chunks.m3u8
 #EXTINF:-1,60 FUNBOX HD
 http://191.97.60.193:10000/play/a02r/index.m3u8
 #EXTINF:-1,61 ETC HD
-http://181.176.186.129:8000/play/a0co/index.m3u8
+http://190.217.117.194:8000/play/a0eb/index.m3u8
 #EXTINF:-1,62 AXN HD
 http://187.102.208.109:50001/play/a005/index.m3u8
 #EXTINF:-1,63 SONY HD
@@ -136,13 +136,13 @@ http://177.53.153.21:8001/play/a02y/index.m3u8
 #EXTINF:-1,68 A&E HD
 http://177.53.153.21:8001/play/a01s/index.m3u8
 #EXTINF:-1,69 SPACE HD
-http://187.102.208.152:8000/play/a08z/index.m3u8
+http://191.52.214.5:8000/play/a01w/index.m3u8
 #EXTINF:-1,70 AMC HD
 http://177.53.153.21:8001/play/a039/index.m3u8
 #EXTINF:-1,71 CINECANAL HD
 http://177.53.153.21:8001/play/a08n/index.m3u8
 #EXTINF:-1,72 CINEMAX HD
-http://45.189.117.202:48000/play/a02a/index.m3u8
+http://191.52.214.5:8000/play/a02a/index.m3u8
 #EXTINF:-1,73 STAR CHANNEL HD
 http://177.53.153.21:8001/play/a022/index.m3u8
 #EXTINF:-1,74 FX HD
@@ -150,7 +150,7 @@ http://177.53.153.21:8001/play/a02z/index.m3u8
 #EXTINF:-1,75 PARAMOUNT HD
 http://177.53.153.21:8001/play/a03e/index.m3u8
 #EXTINF:-1,76 GOLDEN PLUS HD
-http://161.132.194.88:7076/play/a0rv/index.m3u8
+http://161.132.194.88:6178/play/a0rv/index.m3u8
 #EXTINF:-1,77 GOLDEN EDGE HD
 http://187.102.208.109:50001/play/a04a/index.m3u8
 #EXTINF:-1,78 GOLDEN PREMIERE HD
@@ -175,22 +175,22 @@ http://45.173.201.50:4000/play/a037/index.m3u8
 http://191.97.60.193:10000/play/a02x/index.m3u8
 #EXTINF:-1,88 CREO MOVIE HD
 http://191.97.60.193:10000/play/a03h/index.m3u8
-#EXTINF:-1,89 FREETV SAT HD
-http://45.189.117.202:48000/play/a01e/index.m3u8
-#EXTINF:-1,90 FMH MOVIES HD
+#EXTINF:-1,89 FMH MOVIES HD
 http://191.97.60.193:10000/play/a02a/index.m3u8
-#EXTINF:-1,91 FMH FAMILY HD
+#EXTINF:-1,90 FMH FAMILY HD
 http://45.173.201.50:4000/play/a01b/index.m3u8
-#EXTINF:-1,92 TERROR TV HD
-http://161.132.194.88:7076/play/a0uv/index.m3u8
+#EXTINF:-1,91 TERROR TV HD
+https://kingtvplus.online/Julio/Julio/275987.ts
+#EXTINF:-1,92 CINEMA HORROR HD
+http://budtvlight.com:25461/Daniel/0000/125963
 #EXTINF:-1,93 CINE TERROR HD
-http://161.132.194.88:7076/play/a0v1/index.m3u8
+http://161.132.194.88:6178/play/a0v1/index.m3u8
 #EXTINF:-1,94 HBO HD
 http://177.53.153.21:8001/play/a03b/index.m3u8
 #EXTINF:-1,95 HBO 2 HD
 http://177.53.155.236:8000/play/a05o/index.m3u8
 #EXTINF:-1,96 HBO PLUS HD
-http://177.53.155.236:8000/play/a08a/index.m3u8
+http://200.58.64.229:8000/play/a032/index.m3u8
 #EXTINF:-1,97 HBO POP HD
 http://181.176.17.209:8000/play/a0a1/index.m3u8
 #EXTINF:-1,98 HBO FAMILY HD
@@ -250,9 +250,9 @@ https://kingtvplus.online:443/Julio/Julio/178460.ts
 #EXTINF:-1,204 LOS SIMPSONS 24/7
 https://kingtvplus.online:443/Julio/Julio/196925.ts
 #EXTINF:-1,205 PADRE DE FAMILIA 24/7
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/75970336/6102022pp/742
+https://kingtvplus.online:443/Julio/Julio/196953.ts
 #EXTINF:-1,206 FUTURAMA 24/7
-http://samuraitv.online:8000/iptvkingpremiumultrax/Ig9L@0@fK0P2/168155
+http://budtvlight.com:25461/Daniel/0000/2347
 #EXTINF:-1,207 UN SHOW MAS 24/7
 https://kingtvplus.online:443/Julio/Julio/197000.ts
 #EXTINF:-1,208 RICK AND MORTY 24/7
@@ -261,22 +261,22 @@ https://kingtvplus.online:443/Julio/Julio/196967.ts
 https://kingtvplus.online:443/Julio/Julio/178446.ts
 #EXTINF:-1,210 SOUTH PARK 24/7
 https://kingtvplus.online:443/Julio/Julio/192745.ts
-#EXTINF:-1,211 LA CASA DE LOS DIBUJOS 24/7
+#EXTINF:-1,211 EVANGELION 24/7
+https://kingtvplus.online:443/Julio/Julio/196951.ts
+#EXTINF:-1,212 LA CASA DE LOS DIBUJOS 24/7
 https://kingtvplus.online:443/Julio/Julio/196891.ts
-#EXTINF:-1,212 HEY ARNOLD 24/7
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/75970336/6102022pp/757
-#EXTINF:-1,213 LOS CABALLERO DEL ZODIACO 24/7
+#EXTINF:-1,213 HEY ARNOLD 24/7
+http://ultrapremium.cloud:8080/971763953tv/bvwdos/757
+#EXTINF:-1,214 LOS CABALLERO DEL ZODIACO 24/7
 https://kingtvplus.online:443/Julio/Julio/178456.ts
-#EXTINF:-1,214 SUPERCAMPEONES 24/7
+#EXTINF:-1,215 SUPERCAMPEONES 24/7
 https://kingtvplus.online:443/Julio/Julio/169644.ts
-#EXTINF:-1,215 LOONEY TUNES 24/7
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/75970336/6102022pp/786
 #EXTINF:-1,216 COYOTE & CORRE CAMINO 24/7
 https://kingtvplus.online:443/Julio/Julio/178408.ts
 #EXTINF:-1,217 LOONEY TUNES 2 24/7
 https://kingtvplus.online:443/Julio/Julio/196911.ts
 #EXTINF:-1,218 EL GALLO CLAUDIO 24/7
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/75970336/6102022pp/798
+https://kingtvplus.online:443/Julio/Julio/186835.ts
 #EXTINF:-1,219 DEATH NOTE 24/7
 https://kingtvplus.online:443/Julio/Julio/196816.ts
 #EXTINF:-1,220 HAPPY THREE FRIENDS 24/7
@@ -296,19 +296,19 @@ https://kingtvplus.online:443/Julio/Julio/192768.ts
 #EXTINF:-1,227 DON GATO 24/7
 https://kingtvplus.online:443/Julio/Julio/178431.ts
 #EXTINF:-1,228 LA PANTERA ROSA 24/7
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/75970336/6102022pp/726
+https://kingtvplus.online:443/Julio/Julio/244261.ts
 #EXTINF:-1,229 ICARLY 24/7
 https://kingtvplus.online:443/Julio/Julio/196881.ts
 #EXTINF:-1,230 SAILOR MOON 24/7
 https://kingtvplus.online:443/Julio/Julio/196972.ts
 #EXTINF:-1,231 BOB ESPONJA 24/7
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/75970336/6102022pp/690
+https://kingtvplus.online:443/Julio/Julio/192675.ts
 #EXTINF:-1,232 TOM Y JERRY 24/7
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/75970336/6102022pp/711
+https://kingtvplus.online:443/Julio/Julio/192699.ts
 #EXTINF:-1,233 LOS PICAPIEDRAS 24/7
 https://kingtvplus.online:443/Julio/Julio/178425.ts
 #EXTINF:-1,234 XMEN 24/7
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/75970336/6102022pp/717
+https://kingtvplus.online:443/Julio/Julio/178417.ts
 #EXTINF:-1,235 CINE ANIME 24/7
 https://kingtvplus.online:443/Julio/Julio/194768.ts
 #EXTINF:-1,236 DORAEMON 24/7
@@ -463,10 +463,7 @@ http://177.234.245.26:8000/play/a013/index.m3u8
 http://177.234.245.26:8000/play/a014/index.m3u8
 #EXTINF:-1,773 LIGA 1
 http://177.53.153.21:8001/play/a00h/index.m3u8
-#EXTINF:-1,774 RT ESPAÑOL
-http://160.20.165.245:8000/play/a00w/index.m3u8
-#EXTINF:-1,775 CNN MEXICO ESPAÑOL
-http://glowrestream.com:8080/tvcol002/vXbDoi5Or5/124473
+
 
 #EXTINF:-1,800 LIGA MAX 1
 http://190.187.154.156:8000/play/a0ca/index.m3u8
